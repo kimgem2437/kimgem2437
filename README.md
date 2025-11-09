@@ -5,7 +5,7 @@
 <h2 align="center">🌤 Welcome to My Creative Portfolio</h2>
 
 <p align="center">
-  <em>Bright. Fresh. and Full of Energy — like JYP’s vibe.</em>
+
 </p>
 
 ---
