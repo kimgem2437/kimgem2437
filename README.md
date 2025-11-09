@@ -13,13 +13,15 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
           </div>
     </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center">  </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src=[![Solved.ac Profile](https://github-readme-solvedac.hyp3rflow.com/api/?handle=아이디)](https://solved.ac/kimminjae2437@naver.com)
-           /> </div> 
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+  <div align="center">
+    
+    <a href="https://solved.ac/diamondbacks">
+      <img src="https://github-readme-solvedac.hyp3rflow.com/api/?handle=diamondbacks" />
+    </a>
+    
+  </div>
+</div>
     </div>
     
