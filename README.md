@@ -3,7 +3,6 @@
 </p>
 
 <h2 align="center">🌤 Hi there, I'm <strong>[김민재]</strong>!</h2>
-<p align="center">🎟️ Performance Tech Planner | Entertainment Innovator | Creative Developer</p>
 
 ---
 
@@ -11,7 +10,6 @@
 
 - 🎓 전공 : 공연기획 & 연출  
 - 💼 관심분야 : **티켓 서비스**, **엔터테크 플랫폼**, **공연 산업, 엔터테인먼트의 디지털 전환**  
-- 🌱 현재 : Java & Spring을 기반으로 한 **공연 서비스 개발 및 기획 역량**을 키우는 중  
 
 ---
 
