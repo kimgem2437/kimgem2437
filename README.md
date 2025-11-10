@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=220&section=header&text=%20to%20%20%20&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=220&section=header&text=%20%20%20%20&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF" />
 </p>
 
 <h2 align="center">🌤 Hi there, I'm <strong>김민재</strong>!</h2>
