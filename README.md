@@ -2,14 +2,28 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=220&section=header&text=Welcome%20to%20My%20Creative%20World!&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF" />
 </p>
 
-<h2 align="center">🌤 Hi there, I'm <strong>[김민재]</strong>!</h2>
+<h2 align="center">🌤 Hi there, I'm <strong>김민재</strong>!</h2>
 
 ---
 
 ## 💫 Profile
 
 - 🎓 전공 : 공연기획 & 연출  
-- 💼 관심분야 : **티켓 서비스**, **엔터테크 플랫폼**, **공연 산업, 엔터테인먼트의 디지털 전환**  
+- 💼 관심분야 : **티켓 서비스**, **엔터테크 플랫폼**, **공연 산업·엔터테인먼트의 디지털 전환**  
+
+---
+
+## 🎧 Vibe of the Day
+
+<p align="center">
+  <img src="https://i.imgur.com/5O9aQY8.gif" width="500px" alt="music vibe" />
+</p>
+
+<p align="center">
+  <a href="https://music.youtube.com/watch?v=c2ymBHgVvgs" target="_blank">
+    <img src="https://img.shields.io/badge/Now%20Playing-Nujabes%20%7C%20Luv(sic)-1E90FF?style=flat&logo=youtube-music&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -40,20 +54,26 @@
 ## 🧠 Problem Solving
 
 <div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diamondbacks)](https://solved.ac/diamondbacks)
-
+  <a href="https://solved.ac/diamondbacks">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=diamondbacks" alt="solved.ac profile" />
+  </a>
 </div>
-
 
 ---
 
-## 📫 Contact
+## 🪴 Connect with Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://blog.naver.com/kminjae-_-" target="_blank">
+    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  📝 <a href="https://blog.naver.com/kminjae-_-" target="_blank"><strong>네이버 블로그 방문하기 »</strong></a>
 </p>
 
 ---
