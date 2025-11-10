@@ -1,30 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=220&section=header&text=&fontSize=45&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=220&section=header&text=Welcome%20to%20My%20Creative%20World!&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF" />
 </p>
 
-<h2 align="center">🌤 Welcome to My Creative Portfolio</h2>
-
-<p align="center">
-
-</p>
+<h2 align="center">🌤 Hi there, I'm <strong>[김민재]</strong>!</h2>
+<p align="center">🎟️ Performance Tech Planner | Entertainment Innovator | Creative Developer</p>
 
 ---
 
 ## 💫 Profile
 
-
-
----
-
-## 🎬 Projects Showcase
-
-| 프로젝트명 | 설명 | 링크 |
-|:------------|:------|:------|
-| | | |
-| | | |
-| | | |
-
-> 🎤 
+- 🎓 전공 : 공연기획 & 연출  
+- 💼 관심분야 : **티켓 서비스**, **엔터테크 플랫폼**, **공연 산업, 엔터테인먼트의 디지털 전환**  
+- 🌱 현재 : Java & Spring을 기반으로 한 **공연 서비스 개발 및 기획 역량**을 키우는 중  
 
 ---
 
@@ -34,18 +21,19 @@
 
 🎨 **Creative & Design**  
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white"/>
 
-📊 **Marketing & Data**  
-<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
+📊 **Data & Management**  
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
 
-💻 **Development & Planning**  
+💻 **Development & Tech**  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
 </div>
 
@@ -55,22 +43,9 @@
 
 <div align="center">
 
-<!-- ✅ 백준 티어 (Solved.ac) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diamondbacks)](https://solved.ac/diamondbacks)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=diamondbacks&theme=warm)
 
 </div>
-
----
-
-## 🎯 Currently Working On
-
-
-
----
-
-## 💡 Vision & Goal
-
 
 
 ---
@@ -78,7 +53,7 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
