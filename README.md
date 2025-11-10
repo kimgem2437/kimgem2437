@@ -16,12 +16,8 @@
 ## 🎧 Vibe of the Day
 
 <p align="center">
-  <img src="https://i.imgur.com/5O9aQY8.gif" width="500px" alt="music vibe" />
-</p>
-
-<p align="center">
   <a href="https://music.youtube.com/watch?v=c2ymBHgVvgs" target="_blank">
-    <img src="https://img.shields.io/badge/Now%20Playing-Nujabes%20%7C%20Luv(sic)-1E90FF?style=flat&logo=youtube-music&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Now%20Playing-Nujabes%20%7C%20Luv(sic)-1E90FF?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Now Playing: Nujabes | Luv(sic)"/>
   </a>
 </p>
 
@@ -72,9 +68,6 @@
   </a>
 </p>
 
-<p align="center">
-  📝 <a href="https://blog.naver.com/kminjae-_-" target="_blank"><strong>네이버 블로그 방문하기 »</strong></a>
-</p>
 
 ---
 
