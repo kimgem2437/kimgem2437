@@ -1,63 +1,67 @@
 <p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:87CEEB,100:1E90FF%26height%3D220%26section%3Dheader%26text%3D%25F0%259F%258C%259A%2520Hi%2520there,%2520I%27m%2520%25EA%25B9%2580%25EB%25AF%25BC%25EC%259E%25AC!%26fontSize%3D40%26fontAlignY%3D40%26animation%3DfadeIn%26fontColor%3DFFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=220&section=header&text=🎵%20Hi%20there,%20I'm%20김민재!&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF" />
 </p>
 
 💫 Profile
 
-🎓 전공 : 공연기획 & 연출  
+🎓 전공 : 공연기획 & 연출  
 
-💼 관심분야 : 티켓 서비스, 엔터테크 플랫폼, 공연 산업·엔터테인먼트의 디지털 전환  
+💼 관심분야 : 티켓 서비스, 엔터테크 플랫폼, 공연 산업·엔터테인먼트의 디지털 전환  
 
-🎧 Vibe of the Day
+---
 
+🎧 Vibe of the Day  
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=c2ymBHgVvgs" target="_blank">
-    <img src="https://img.shields.io/badge/Now%20Playing-Nujabes%20%7C%20Luv(sic)-1E90FF?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Now Playing: Nujabes | Luv(sic)"/>
-  </a>
+  <a href="https://music.youtube.com/watch?v=c2ymBHgVvgs" target="_blank">
+    <img src="https://img.shields.io/badge/Now%20Playing-Nujabes%20%7C%20Luv(sic)-1E90FF?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Now Playing: Nujabes | Luv(sic)"/>
+  </a>
 </p>
 
-🛠️ Skills & Tools
+---
 
+🛠️ Skills & Tools
 <div align="center">
 
-🎨 Creative & Design  
+🎨 Creative & Design  
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white"/>
 
-📊 Data & Management  
+📊 Data & Management  
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
 
-💻 Development & Tech  
+💻 Development & Tech  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vue.js-4FC08D%3Fstyle%3Dflat-square%26logo%3Dvuedotjs%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 </div>
 
-🧠 Problem Solving
+---
 
+🧠 Problem Solving  
 <div align="center">
-  <a href="https://solved.ac/diamondbacks">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=diamondbacks" alt="solved.ac profile" />
-  </a>
+  <a href="https://solved.ac/diamondbacks">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=diamondbacks" alt="solved.ac profile" />
+  </a>
 </div>
 
-🪴 Connect with Me
+---
 
+🪴 Connect with Me  
 <p align="center">
-  <a href="https://www.instagram.com/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.google.com/search?q=https://blog.naver.com/kminjae--" target="_blank">
-    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a>
+  <a href="https://www.instagram.com/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://blog.naver.com/kminjae--" target="_blank">
+    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEEB&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEEB&height=120&section=footer"/>
 </p>
