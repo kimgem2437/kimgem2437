@@ -1,79 +1,89 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=220&section=header&text=%20%20%20%20&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:B0DAFF,100:6A5ACD%26height%3D240%26section%3Dheader%26text%3D✨%20Performance%20Planning%20×%20Entertainment%20Tech%20✨&fontSize=32&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" />
 </p>
 
-<div align="center">
+<h2 align="center">🎤 김민재: Performance Planning × Entertainment Tech ✨</h2>
+<p align="center"><strong>콘텐츠·기술·데이터를 연결하는 엔터테크 기획자</strong></p>
 
-<h2 align="center">🌤 안녕하세요, <strong>김민재</strong>입니다!</h2>
+🌟 About Me (Performance Connect)
 
-<h3 align="center">💫 Profile</h3>
-<p align="center">
-🎓 전공 : 공연기획 & 연출 
-
+<p align="center"><em>"무대와 플랫폼의 경계를 허무는, 
 
 
 
-💼 관심분야 : <strong>티켓 서비스</strong>, <strong>엔터테크 플랫폼</strong>, <strong>공연 산업·엔터테인먼트의 디지털 전환</strong>
-</p>
+팬덤을 움직이는 하이브리드 퍼포먼스 기획자"</em></p>
 
-<h3 align="center">🎧 Vibe of the Day</h3>
+💫 My Stage Profile
+
+🎓 전공 : 공연기획 & 연출
+
+💼 핵심 역량 :
+티켓 서비스 최적화, 엔터테크 플랫폼 기획,
+공연·엔터 산업의 디지털 전환(DX) 리더십
+
+🎯 비전 : 기술 기반의 혁신적인 엔터테인먼트 기획자 / 플랫폼 PM
+
+🎧 Today’s Vibe
+
 <p align="center">
 <a href="https://music.youtube.com/watch?v=c2ymBHgVvgs" target="_blank">
-<img src="https://img.shields.io/badge/Now%20Playing-Nujabes%20%7C%20Luv(sic)-1E90FF?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Now Playing: Nujabes | Luv(sic)"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Now%2520Playing-Luv(sic)%2520by%2520Nujabes-6A5ACD%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube-music%26logoColor%3Dwhite"/>
 </a>
 </p>
 
-<h3 align="center">🛠️ Skills & Tools</h3>
+🛠️ My Tech Roster (Skills & Tools)
 
+<div align="center">
 
+🎨 Creative & Design
 
-
-
-<h4 align="center">🎨 Creative & Design</h4>
-<p align="center">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white"/>
-</p>
 
-<h4 align="center">📊 Data & Management</h4>
-<p align="center">
+📊 Data & Strategy
+
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
 
-<h4 align="center">💻 Development & Tech</h4>
-<p align="center">
+💻 Development & Platform Tech
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Vue.js-4FC08D%3Fstyle%3Dflat-square%26logo%3Dvuedotjs%26logoColor%3Dwhite"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+</div>
 
-<h3 align="center">📊 My GitHub Stats</h3>
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/diamondbacks">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddiamondbacks%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26border_radius%3D10%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="Minjae's GitHub stats" />
-</a>
+🧠 Problem Solving Stage (Algorithm Performance)
 
-
-
-
-
-<a href="https://www.google.com/search?q=https://github.com/diamondbacks">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddiamondbacks%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26border_radius%3D10%26langs_count%3D8" alt="Top Languages" />
-</a>
-</p>
-
-<h3 align="center">🧠 Problem Solving</h3>
-<p align="center">
+<div align="center">
 <a href="https://solved.ac/diamondbacks">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=diamondbacks" alt="solved.ac profile" />
 </a>
+</div>
+
+📈 GitHub Performance (Data Insights)
+
+<p align="center">
+
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Ddiamondbacks%26theme%3Dreact-dark%26bg_color%3D282C34%26color%3D6A5ACD%26line%3DB0DAFF%26point%3DFFD700%26area%3Dtrue%26hide_border%3Dtrue%26border_radius%3D10"/>
 </p>
 
-<h3 align="center">🪴 Connect with Me</h3>
+<p align="center">
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddiamondbacks%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D282C34%26title_color%3DB0DAFF%26text_color%3DFFFFFF%26icon_color%3DFFD700"/>
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddiamondbacks%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D282C34%26title_color%3DB0DAFF%26text_color%3DFFFFFF%26icon_color%3DFFD700"/>
+</p>
+
+🤝 Connect with Me (Collaboration & Contact)
+
 <p align="center">
 <a href="https://www.instagram.com/" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -84,8 +94,6 @@
 </a>
 </p>
 
-</div>
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEEB&height=120&section=footer"/>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:6A5ACD,100:B0DAFF%26height%3D120%26section%3Dfooter"/>
 </p>
