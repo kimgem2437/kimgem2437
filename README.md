@@ -29,7 +29,6 @@
 📊 Data & Management  
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
 
 💻 Development & Tech  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
