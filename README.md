@@ -56,7 +56,7 @@
   <a href="https://www.instagram.com/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://blog.naver.com/kminjae--" target="_blank">
+  <a href="https://blog.naver.com/kminjae-_-" target="_blank">
     <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </p>
