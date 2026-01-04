@@ -18,10 +18,6 @@
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ## 🎬 About Me
 ```yaml
 전공: 공연기획 & 연출
@@ -29,7 +25,6 @@
   - 티켓 서비스
   - 엔터테크 플랫폼
   - 공연 산업 DX
-현재: SSAFY 교육생
 ```
 
 <br>
@@ -37,18 +32,24 @@
 ### 🎵 Now Playing
 [![Spotify](https://img.shields.io/badge/Nujabes-Luv(sic)-1DB954?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/watch?v=c2ymBHgVvgs)
 
-</td>
-<td width="50%" valign="top">
+<br>
+
+---
+
+<br>
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kimgem2437&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=58a6ff&title_color=58a6ff" width="100%" />
+<div align="center">
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kimgem2437&theme=tokyonight&hide_border=true&background=1a1b27&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="100%" />
+<br>
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimgem2437&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=58a6ff" width="95%" />
+
+</div>
 
 <br>
 
@@ -65,16 +66,15 @@
 <td align="center" width="33%">
 
 ### 🎨 Frontend
-
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </td>
 <td align="center" width="33%">
 
 ### 💻 Backend
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br>
@@ -85,7 +85,6 @@
 <td align="center" width="33%">
 
 ### 🎨 Design & Tools
-
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" /><br>
@@ -104,20 +103,6 @@
 
 <br>
 
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimgem2437&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=58a6ff" width="95%" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
 ## 🧠 Problem Solving
 
 <div align="center">
@@ -126,33 +111,13 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=diamondbacks" alt="Baekjoon Profile" />
 </a>
 
-<br><br>
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=diamondbacks&theme=warm)
-
 </div>
-
-<br>
 
 ---
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kimgem2437&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 📫 Contact
+## 📬 Let's Connect!
 
 <div align="center">
 
@@ -166,13 +131,7 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimgem2437&count_bg=%2358A6FF&title_bg=%231A1B27&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
 </div>
-
-<br>
 
 ---
 
