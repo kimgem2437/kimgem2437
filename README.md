@@ -52,19 +52,3 @@
 | **EATEUM** | AI 냉장고 재료 인식 레시피 추천 | 팀장 / 풀스택 | 5주 (3인) |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![김민재's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgem2437&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimgem2437&layout=compact&hide_border=true)
-
-</div>
-
-<div align="center">
-
-📧 **rlaalswo2437@gmail.com**
-
-</div>
